@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "task": "terminar javascript",
+      "id": 1
+    },
+    {
+      "task": "Estudiando javascript",
+      "id": 5
+    },
+    {
+      "task": "Realizar de nuevo el simulacro\n",
+      "id": 6
+    },
+    {
+      "task": "Construir casa en LEGO epic",
+      "id": 7
+    },
+    {
+      "task": "Subir a 20 mil en CS2 !",
+      "id": 8
+    },
+    {
+      "task": "Hola",
+      "id": 9
+    }
+  ]
+}
